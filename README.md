@@ -1,2 +1,2 @@
 # My first project on Java.
-Simple Zip and Unzip files.
+Simple program to Zip and Unzip files.
